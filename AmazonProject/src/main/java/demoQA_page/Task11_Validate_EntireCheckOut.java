@@ -95,9 +95,9 @@ WebDriver driver;
 	
 	public void userLoginDetails()
 	{
-		emailfield.sendKeys("8795012752");
+		emailfield.sendKeys("useryouremail@yopmail.com");
 		continuebutton.click();
-		passwordField.sendKeys("Ram023866@");
+		passwordField.sendKeys("Welcome@123");
 		signInButton.click();
 	}
 	
