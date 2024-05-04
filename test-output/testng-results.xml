@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-04T15:15:42 IST" name="Default suite" finished-at="2024-05-04T15:15:55 IST" duration-ms="12895">
+    <groups>
+    </groups>
+    <test started-at="2024-05-04T15:15:42 IST" name="Default test" finished-at="2024-05-04T15:15:55 IST" duration-ms="12895">
+      <class name="demoqa_test.RegistrationPageTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoqa_test.RegistrationPageTest@76b1e9b8]" started-at="2024-05-04T15:15:42 IST" name="launchBrowser" finished-at="2024-05-04T15:15:51 IST" duration-ms="8832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="resgistrationtest()[pri:0, instance:demoqa_test.RegistrationPageTest@76b1e9b8]" started-at="2024-05-04T15:15:51 IST" name="resgistrationtest" finished-at="2024-05-04T15:15:55 IST" duration-ms="3982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resgistrationtest -->
+      </class> <!-- demoqa_test.RegistrationPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
