@@ -52,9 +52,9 @@ public class EditProfile
 	
 	public void userLoginDetails()
 	{
-		emailfield.sendKeys("8795012752");
+		emailfield.sendKeys("useryouremail@demo.com");
 		continuebutton.click();
-		passwordField.sendKeys("Ram023866@");
+		passwordField.sendKeys("Demo123@");
 		signInButton.click();
 	}
 	
