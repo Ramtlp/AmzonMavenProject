@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
    
-    <title></title>
+   
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px;">
     <div style="max-width: 800px; margin: auto;">
