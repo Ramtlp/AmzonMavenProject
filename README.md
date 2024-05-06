@@ -42,8 +42,8 @@
         <p>To run the automated tests, follow these steps:</p>
         <pre>
             <code>
-                $ git clone https://github.com/yourusername/yourproject.git
-                $ cd yourproject
+                $ git clone https://github.com/Ramtlp/AmzonMavenProject.git
+                $ cd AmzonMavenProject
                 $ python test_script.py
             </code>
         </pre>
